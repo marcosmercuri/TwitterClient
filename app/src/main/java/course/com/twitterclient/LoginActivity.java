@@ -14,7 +14,7 @@ import com.twitter.sdk.android.core.Result;
 import com.twitter.sdk.android.core.TwitterException;
 import com.twitter.sdk.android.core.TwitterSession;
 import com.twitter.sdk.android.core.identity.TwitterLoginButton;
-import course.com.twitterclient.main.MainActivity;
+import course.com.twitterclient.main.ui.MainActivity;
 import io.fabric.sdk.android.Fabric;
 
 public class LoginActivity extends AppCompatActivity {

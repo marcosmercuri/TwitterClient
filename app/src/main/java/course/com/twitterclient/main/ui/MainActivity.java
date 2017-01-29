@@ -1,4 +1,4 @@
-package course.com.twitterclient.main;
+package course.com.twitterclient.main.ui;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
