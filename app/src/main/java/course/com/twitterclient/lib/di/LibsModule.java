@@ -18,6 +18,10 @@ import dagger.Provides;
 public class LibsModule {
     private Fragment fragment;
 
+    public LibsModule(Fragment fragment) {
+        this.fragment = fragment;
+    }
+
     @Provides
     @Singleton
     EventBus provideEventBust() {
