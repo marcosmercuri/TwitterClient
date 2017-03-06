@@ -1,4 +1,4 @@
-package course.com.twitterclient.images;
+package course.com.twitterclient.images.ui;
 
 
 import android.os.Bundle;

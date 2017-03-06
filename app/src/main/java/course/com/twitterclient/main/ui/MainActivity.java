@@ -17,7 +17,7 @@ import butterknife.ButterKnife;
 import course.com.twitterclient.LoginActivity;
 import course.com.twitterclient.R;
 import course.com.twitterclient.hastags.HastagsFragment;
-import course.com.twitterclient.images.ImagesFragment;
+import course.com.twitterclient.images.ui.ImagesFragment;
 import course.com.twitterclient.main.ui.adapters.MainSectionsPagerAdapter;
 
 public class MainActivity extends AppCompatActivity {
